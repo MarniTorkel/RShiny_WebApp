@@ -1,0 +1,101 @@
+Source,Target,Type,id,weight
+Naomi Watts,Eddie Marsan,Directed,18,1.0
+Eddie Marsan,Naomi Watts,Directed,20,1.0
+Harrison Ford,Robert Duvall,Directed,217,1.0
+Robert Duvall,Harrison Ford,Directed,220,1.0
+Scarlett Johansson,Robert Downey Jr.,Directed,264,3.0
+Robert Downey Jr.,Scarlett Johansson,Directed,266,3.0
+Morgan Freeman,Christian Bale,Directed,292,2.0
+Morgan Freeman,Liam Neeson,Directed,293,1.0
+Christian Bale,Morgan Freeman,Directed,294,2.0
+Christian Bale,Liam Neeson,Directed,295,1.0
+Liam Neeson,Morgan Freeman,Directed,296,1.0
+Liam Neeson,Christian Bale,Directed,297,1.0
+Gary Oldman,Anthony Hopkins,Directed,442,1.0
+Anthony Hopkins,Gary Oldman,Directed,444,1.0
+Jim Broadbent,Robert De Niro,Directed,455,1.0
+Robert De Niro,Jim Broadbent,Directed,458,1.0
+Leonardo DiCaprio,Tom Hanks,Directed,534,1.0
+Tom Hanks,Leonardo DiCaprio,Directed,536,1.0
+Jim Broadbent,Tom Hanks,Directed,571,1.0
+Tom Hanks,Jim Broadbent,Directed,574,1.0
+Johnny Depp,Al Pacino,Directed,718,1.0
+Al Pacino,Johnny Depp,Directed,720,1.0
+Philip Seymour Hoffman,Meryl Streep,Directed,730,1.0
+Meryl Streep,Philip Seymour Hoffman,Directed,732,1.0
+Johnny Depp,Bill Murray,Directed,754,1.0
+Bill Murray,Johnny Depp,Directed,756,1.0
+Bill Murray,Meryl Streep,Directed,832,1.0
+Meryl Streep,Bill Murray,Directed,834,1.0
+Kate Winslet,Johnny Depp,Directed,865,1.0
+Johnny Depp,Kate Winslet,Directed,867,1.0
+Liam Neeson,Jim Broadbent,Directed,922,1.0
+Liam Neeson,Leonardo DiCaprio,Directed,923,1.0
+Jim Broadbent,Liam Neeson,Directed,924,1.0
+Jim Broadbent,Leonardo DiCaprio,Directed,925,1.0
+Leonardo DiCaprio,Liam Neeson,Directed,926,1.0
+Leonardo DiCaprio,Jim Broadbent,Directed,927,1.0
+Kevin Spacey,Al Pacino,Directed,967,1.0
+Al Pacino,Kevin Spacey,Directed,969,1.0
+Denzel Washington,Morgan Freeman,Directed,973,4.0
+Morgan Freeman,Denzel Washington,Directed,975,4.0
+Brad Pitt,Tom Cruise,Directed,1225,1.0
+Tom Cruise,Brad Pitt,Directed,1228,1.0
+Robert Downey Jr.,Jeff Bridges,Directed,1237,1.0
+Jeff Bridges,Robert Downey Jr.,Directed,1240,1.0
+Anthony Hopkins,Brad Pitt,Directed,1326,1.0
+Brad Pitt,Anthony Hopkins,Directed,1328,1.0
+Bill Murray,Scarlett Johansson,Directed,1389,5.0
+Scarlett Johansson,Bill Murray,Directed,1391,5.0
+Bruce Willis,Morgan Freeman,Directed,1398,4.0
+Morgan Freeman,Bruce Willis,Directed,1400,4.0
+Brad Pitt,Philip Seymour Hoffman,Directed,1525,1.0
+Philip Seymour Hoffman,Brad Pitt,Directed,1528,1.0
+Bill Murray,Bruce Willis,Directed,1551,1.0
+Bruce Willis,Bill Murray,Directed,1553,1.0
+Denzel Washington,Tom Hanks,Directed,1701,1.0
+Tom Hanks,Denzel Washington,Directed,1703,1.0
+Jake Gyllenhaal,Hugh Jackman,Directed,1747,1.0
+Hugh Jackman,Jake Gyllenhaal,Directed,1750,1.0
+Robert Downey Jr.,Jim Broadbent,Directed,1833,1.0
+Jim Broadbent,Robert Downey Jr.,Directed,1835,1.0
+Matt Damon,Tom Hanks,Directed,1890,1.0
+Tom Hanks,Matt Damon,Directed,1892,1.0
+Morgan Freeman,Brad Pitt,Directed,1920,1.0
+Brad Pitt,Morgan Freeman,Directed,1922,1.0
+Robert Downey Jr.,Eddie Marsan,Directed,1963,2.0
+Eddie Marsan,Robert Downey Jr.,Directed,1965,2.0
+Brad Pitt,Robert De Niro,Directed,2025,1.0
+Robert De Niro,Brad Pitt,Directed,2027,1.0
+Philip Seymour Hoffman,Jeff Bridges,Directed,2244,1.0
+Jeff Bridges,Philip Seymour Hoffman,Directed,2246,1.0
+Matt Damon,Leonardo DiCaprio,Directed,2375,1.0
+Leonardo DiCaprio,Matt Damon,Directed,2378,1.0
+Gary Oldman,Bruce Willis,Directed,2401,1.0
+Bruce Willis,Gary Oldman,Directed,2403,1.0
+Robert Duvall,Al Pacino,Directed,2434,2.0
+Al Pacino,Robert Duvall,Directed,2435,2.0
+Al Pacino,Robert De Niro,Directed,2438,1.0
+Robert Duvall,Robert De Niro,Directed,2439,1.0
+Robert De Niro,Al Pacino,Directed,2440,1.0
+Robert De Niro,Robert Duvall,Directed,2441,1.0
+Kate Winslet,Kevin Spacey,Directed,2615,1.0
+Kevin Spacey,Kate Winslet,Directed,2618,1.0
+Scarlett Johansson,Hugh Jackman,Directed,2696,1.0
+Scarlett Johansson,Christian Bale,Directed,2697,1.0
+Hugh Jackman,Scarlett Johansson,Directed,2698,1.0
+Hugh Jackman,Christian Bale,Directed,2699,1.0
+Christian Bale,Scarlett Johansson,Directed,2700,1.0
+Christian Bale,Hugh Jackman,Directed,2701,1.0
+Kate Winslet,Leonardo DiCaprio,Directed,2916,1.0
+Leonardo DiCaprio,Kate Winslet,Directed,2918,1.0
+John Ratzenberger,Tom Hanks,Directed,2946,3.0
+Tom Hanks,John Ratzenberger,Directed,2948,3.0
+Matt Damon,Jeff Bridges,Directed,2985,1.0
+Jeff Bridges,Matt Damon,Directed,2988,1.0
+Brad Pitt,Gary Oldman,Directed,2991,1.0
+Gary Oldman,Brad Pitt,Directed,2994,1.0
+Leonardo DiCaprio,Johnny Depp,Directed,3084,1.0
+Johnny Depp,Leonardo DiCaprio,Directed,3086,1.0
+Robert Downey Jr.,Jake Gyllenhaal,Directed,3151,1.0
+Jake Gyllenhaal,Robert Downey Jr.,Directed,3154,1.0

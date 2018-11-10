@@ -1,0 +1,9 @@
+name: MoviePVA
+account: visim
+server: shinyapps.io
+appId: 204427
+bundleId: 1043166
+url: https://visim.shinyapps.io/MoviePVA/
+when: 1508881585.78348
+asMultiple: FALSE
+asStatic: FALSE

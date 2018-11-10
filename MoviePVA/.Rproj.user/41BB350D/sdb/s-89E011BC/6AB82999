@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1507370115042.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6AB82999",
+    "lastKnownWriteTime" : 4294967302,
+    "last_content_update" : 1507370115042,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3tzmq4j9qy",
+        "caption" : "imdb_data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=imdb_data&cache_key=3tzmq4j9qy",
+        "displayedObservations" : 3723,
+        "environment" : "",
+        "object" : "imdb_data",
+        "totalObservations" : 3723,
+        "variables" : 28
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
