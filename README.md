@@ -8,7 +8,7 @@ This project presents design, implementation and evaluation of Scalable Visual A
 ### Actor Page
 <img src="actor.png" alt="Actor icon" style="float: left; margin-right: 10px;" />
 
-#### Active timeslice
+#### Actor timeslice
 <img src="bp.png" alt="Brad Pitt icon" style="float: left; margin-right: 10px;" />
 
 ### Movie Page
